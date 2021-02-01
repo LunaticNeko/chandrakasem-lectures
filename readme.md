@@ -1,6 +1,14 @@
-# Guest Lecture Slides for Chandrakasem Rajabhat University, 2021-01-18
+# Guest Lecture Series for Chandrakasem Rajabhat University
 
 Lecturer: Chawanat Nakasan \<chawanat@staff.kanazawa-u.ac.jp\>
+
+## Schedule/History
+
+| No. | When (UTC+7)         | What                             | Where       |
+| --- | -------------------- | -------------------------------- | ----------- |
+|  00 | 2021-01-18 1100-1300 | Introduction, Being a Teacher    | GMeet (CRU) |
+|  01 | 2021-01-28 1400-1700 | Python Programming I             | GMeet (CRU) |
+|  02 | TBA                  | Python Programming Practice I    | GMeet (CRU) |
 
 ## Informed Consent Information under GDPR (EU), PDPA (TH), APPI (JP)
 
@@ -21,9 +29,7 @@ Please see "legal-studentconsent.md" for additional details.
 
 (C) 2021 Chawanat Nakasan
 
-Slide is released under CC-BY-SA 4.0.
-
-Code files are released under MIT License.
+Slide is released under CC-BY 4.0. Code files are released under MIT License.
 
 Appropriate license text will be uploaded at a later date.
 
