@@ -4,11 +4,11 @@ Lecturer: Chawanat Nakasan \<chawanat@staff.kanazawa-u.ac.jp\>
 
 ## Schedule/History
 
-| No. | When (UTC+7)         | What                             | Where       |
-| --- | -------------------- | -------------------------------- | ----------- |
-|  00 | 2021-01-18 1100-1300 | Introduction, Being a Teacher    | GMeet (CRU) |
-|  01 | 2021-01-28 1400-1700 | Python Programming I             | GMeet (CRU) |
-|  02 | TBA                  | Python Programming Practice I    | GMeet (CRU) |
+| No. | When (UTC+7)         | Filename   | Content                          | Where       |
+| --- | -------------------- | ---------- | -------------------------------- | ----------- |
+|  00 | 2021-01-18 1100-1300 | [week0]    | Introduction, Being a Teacher    | GMeet (CRU) |
+|  01 | 2021-01-28 1400-1700 | [python1]  | Python Programming I             | GMeet (CRU) |
+|  02 | TBA                  | [python1p] | Python Programming Practice I    | GMeet (CRU) |
 
 ## Informed Consent Information under GDPR (EU), PDPA (TH), APPI (JP)
 
