@@ -4,12 +4,12 @@ Lecturer: Chawanat Nakasan \<chawanat.n@ku.th\>
 
 ## Schedule/History
 
-| Code   | CRU Course | When (UTC+7)         | Filename       | Content                          | Where       |
-| ------ | ---------- | -------------------- | -------------- | -------------------------------- | ----------- |
-| S01E00 | EDTE3208   | 2021-01-18 1100-1300 | [week0]        | Introduction, Being a Teacher    | GMeet (CRU) |
-| S01E01 | EDTE3208   | 2021-01-28 1400-1700 | [python1]      | Python Programming I             | GMeet (CRU) |
-| S02E01 | CEDT3209   | 2023-08-28 1230-1630 | [ppy2023-01]   | Practical Python Programming I   | CRU         |
-| S02E02 | CEDT3209   | 2023-09-04 1230-1630 | [ppy2023-02]   | Practical Python Programming II  | CRU         |
+| Code   | CRU Course | When (UTC+7)         | Content                          | Where       |
+| ------ | ---------- | -------------------- | -------------------------------- | ----------- |
+| s01e00 | EDTE3208   | 2021-01-18 1100-1300 | Introduction, Being a Teacher    | GMeet (CRU) |
+| s01e01 | EDTE3208   | 2021-01-28 1400-1700 | Python Programming I             | GMeet (CRU) |
+| s02e01 | CEDT3209   | 2023-08-28 1230-1630 | Practical Python Programming I   | CRU         |
+| s02e02 | CEDT3209   | 2023-09-04 1230-1630 | Practical Python Programming II  | CRU         |
 
 ## Informed Consent Information under GDPR (EU), PDPA (TH)
 
