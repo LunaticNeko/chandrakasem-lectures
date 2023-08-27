@@ -6,8 +6,8 @@ Lecturer: Chawanat Nakasan \<chawanat.n@ku.th\>
 
 | Code   | KU Course | CRU Course | When (UTC+7)         | Content                          | Where       |
 | ------ | --------- | ---------- | -------------------- | -------------------------------- | ----------- |
-| s01e00 | 01204111  | EDTE3208   | 2021-01-18 1100-1300 | Introduction, Being a Teacher    | GMeet (CRU) |
-| s01e01 | 01204111  | EDTE3208   | 2021-01-28 1400-1700 | Python Programming I             | GMeet (CRU) |
+| s01e00 | N/A [1]   | EDTE3208   | 2021-01-18 1100-1300 | Introduction, Being a Teacher    | GMeet (CRU) |
+| s01e01 | N/A [1]   | EDTE3208   | 2021-01-28 1400-1700 | Python Programming I             | GMeet (CRU) |
 | wc2022 | N/A       | N/A        | 2022-11-10 1300-1600 | Word Camp 2022 I                 | CRU         |
 | wc2022 | N/A       | N/A        | 2022-11-14 1300-1600 | Word Camp 2022 II                | CRU         |
 | wc2022 | N/A       | N/A        | 2022-11-15 1300-1600 | Word Camp 2022 III               | CRU         |
@@ -16,6 +16,9 @@ Lecturer: Chawanat Nakasan \<chawanat.n@ku.th\>
 | s02e02 | 01204111  | CEDT3209   | 2023-09-04 1230-1630 | Practical Python Programming II  | CRU         |
 
 Folders and presentation files titles correspond to the codes.
+
+[1] At the time of giving these lectures, the lecturer has not yet been
+affiliated with Kasetsart University.
 
 ## Informed Consent Information under GDPR (EU), PDPA (TH)
 
