@@ -1,7 +1,7 @@
 INFORMED CONSENT for Educational Research
 =========================================
 
-The special lecturer and the High Performance Computing and Networking Center,
+The special lecturer and the High-Performance Computing and Networking Center,
 Kasetsart University ("HPCNC") would like to request your INFORMED CONSENT to
 use your personal information as outlined in the following policy.
 
@@ -10,14 +10,17 @@ use your personal information as outlined in the following policy.
 2. Purpose:
    1. To evaluate your understanding in this lecture series.
    2. To conduct educational research by the special lecturer.
-3. Anonymity: Your name (or pseudonym) will not be used in the used for the
-   statistical analyses or research publication, but may be stored for the
-   express purpose of recording your consent.
+3. Anonymity: Your name (or pseudonym) will not be used for statistical
+   analyses or research publication, but may be stored for the express purpose
+   of recording your consent. Where specific cases must be mentioned in public,
+   a new, non-identifying specific pseudonym will be created and assigned
+   according to proper pseudonymization protocols. This specific pseudonym
+   CANNOT be traced or linked back to you.
 4. No extra credit: Your consent does not affect the grades of any courses at
    Chandrakasem Rajabhat University or evaluation during this special lecture
    series by the special lecturer.
 5. This information may be accessed by HPCNC and its employees, including:
-   1. The special lecturer
+   1. The special lecturer and colleagues at HPCNC
    2. Research assistants and co-authors as authorized individually by the
       special lecturer
    3. Research data managers according to the research data management (RDM)
@@ -76,13 +79,15 @@ English edition shall take precedence.
    2. การวิจัยทางการศึกษาโดยผู้สอนพิเศษ
 
 3. ไม่ระบุชื่อ: ชื่อ (หรือนามแฝง) ของท่านจะไม่ถูกใช้ในขั้นตอนการประมวลผลข้อมูลทางสถิติ หรือการ
-   ตีพิมพ์ผลงานวิจัย แต่อาจมีการเก็บชื่อไว้เพื่อบันทึกการยินยอมของท่าน
+   ตีพิมพ์ผลงานวิจัย แต่อาจมีการเก็บชื่อไว้เพื่อบันทึกการยินยอมของท่าน โดยหากมีความจำเป็นที่จะต้อง
+   บ่งชี้ตัวบุคคล ผู้วิจัยจะสร้างนามแฝงใหม่ แล้วใช้เฉพาะนามแฝงนั้นในการระบุตัวบุคคล ซึ่งไม่สามารถ
+   ใช้เพื่อสืบหาได้ว่าเป็นผู้ใด
 
 4. ไม่มีผลกับคะแนน: การยินยอมหรือไม่ยินยอม ไม่มีผลต่อระดับคะแนน (เกรด) ของท่านในวิชาเรียนใดๆ
    ที่ มจษ. และไม่มีผลต่อการประเมินในการสอนพิเศษในทุกกรณี
 
 5. ข้อมูลนี้อาจเข้าถึงได้โดย HPCNC และบุคลากร ได้แก่:
-   1. ผู้สอนพิเศษ
+   1. ผู้สอนพิเศษ และบุคลากรห้องปฏิบัติการ
    2. ผู้ช่วยวิจัย หรือผู้วิจัยร่วมที่ผู้สอนพิเศษอนุญาตเป็นรายบุคคล
    3. ผู้จัดการข้อมูลวิจัย (research data manager) ตามกระบวนการบริหารจัดการข้อมูลวิจัย
       (research data management, RDM) ขั้นตอน หรือข้อบังคับอื่นๆ
@@ -106,7 +111,7 @@ English edition shall take precedence.
     การรายงานต่อหน่วยงานที่เกี่ยวข้องหากเกิดข้อมูลรั่วไหล
 
 11. หนังสือขอความยินยอมนี้เขียนโดยอ้างตาม
-    พระราชบัญญัติคุ้มครองข้อมูลส่วนบุคคล พ.ศ. 2562 (ประเทศไทย, PDPA),
+    พระราชบัญญัติคุ้มครองข้อมูลส่วนบุคคล พ.ศ. 2562 (ราชอาณาจักรไทย, PDPA),
     Act on the Protection of Personal Information 2003 (ประเทศญี่ปุ่น, APPI), และ
     General Data Protection Regulation (สหภาพยุโรป, GDPR)
     โดยยึดตามเงื่อนไขที่เข้มงวดที่สุดของทั้งสามกฎหมายร่วมกัน

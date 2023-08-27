@@ -42,7 +42,7 @@ appreciates the support of the following entities:
 
 * Faculty of Education, Chandarakasem Rajabhat University
 * Emerging Media Initiative, Kanazawa University
-* High Performance Computing and Networking Center,
+* High-Performance Computing and Networking Center,
   Department of Computer Engineering, Kasetsart University
 
 (Listed alphabetically by top-level names.)
