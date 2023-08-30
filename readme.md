@@ -4,16 +4,16 @@ Lecturer: Chawanat Nakasan \<chawanat.n@ku.th\>
 
 ## Schedule/History
 
-| Code   | KU Course | CRU Course | When (UTC+7)         | Content                          | Where       |
-| ------ | --------- | ---------- | -------------------- | -------------------------------- | ----------- |
-| s01e00 | N/A [1]   | EDTE3208   | 2021-01-18 1100-1300 | Introduction, Being a Teacher    | GMeet (CRU) |
-| s01e01 | N/A [1]   | EDTE3208   | 2021-01-28 1400-1700 | Python Programming I             | GMeet (CRU) |
-| wc2022 | N/A       | N/A        | 2022-11-10 1300-1600 | Word Camp 2022 I                 | CRU         |
-| wc2022 | N/A       | N/A        | 2022-11-14 1300-1600 | Word Camp 2022 II                | CRU         |
-| wc2022 | N/A       | N/A        | 2022-11-15 1300-1600 | Word Camp 2022 III               | CRU         |
-| wc2022 | N/A       | N/A        | 2022-11-22 1300-1600 | Word Camp 2022 IV                | CRU         |
+| Code             | KU Course | CRU Course | When (UTC+7)         | Content                          | Where       |
+| ---------------- | --------- | ---------- | -------------------- | -------------------------------- | ----------- |
+| [s01e00](s01e00) | N/A [1]   | EDTE3208   | 2021-01-18 1100-1300 | Introduction, Being a Teacher    | GMeet (CRU) |
+| [s01e01](s01e01) | N/A [1]   | EDTE3208   | 2021-01-28 1400-1700 | Python Programming I             | GMeet (CRU) |
+| wc2022           | N/A       | N/A        | 2022-11-10 1300-1600 | Word Camp 2022 I                 | CRU         |
+| wc2022           | N/A       | N/A        | 2022-11-14 1300-1600 | Word Camp 2022 II                | CRU         |
+| wc2022           | N/A       | N/A        | 2022-11-15 1300-1600 | Word Camp 2022 III               | CRU         |
+| wc2022           | N/A       | N/A        | 2022-11-22 1300-1600 | Word Camp 2022 IV                | CRU         |
 | [s02e01](s02e01) | 01204111  | CEDT3209   | 2023-08-28 1230-1630 | Practical Python Programming I   | CRU         |
-| s02e02 | 01204111  | CEDT3209   | 2023-09-04 1230-1630 | Practical Python Programming II  | CRU         |
+| s02e02           | 01204111  | CEDT3209   | 2023-09-04 1230-1630 | Practical Python Programming II  | CRU         |
 
 Folders and presentation files titles correspond to the codes.
 
