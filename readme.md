@@ -12,7 +12,7 @@ Lecturer: Chawanat Nakasan \<chawanat.n@ku.th\>
 | wc2022 | N/A       | N/A        | 2022-11-14 1300-1600 | Word Camp 2022 II                | CRU         |
 | wc2022 | N/A       | N/A        | 2022-11-15 1300-1600 | Word Camp 2022 III               | CRU         |
 | wc2022 | N/A       | N/A        | 2022-11-22 1300-1600 | Word Camp 2022 IV                | CRU         |
-| s02e01 | 01204111  | CEDT3209   | 2023-08-28 1230-1630 | Practical Python Programming I   | CRU         |
+| [s02e01](s02e01) | 01204111  | CEDT3209   | 2023-08-28 1230-1630 | Practical Python Programming I   | CRU         |
 | s02e02 | 01204111  | CEDT3209   | 2023-09-04 1230-1630 | Practical Python Programming II  | CRU         |
 
 Folders and presentation files titles correspond to the codes.
