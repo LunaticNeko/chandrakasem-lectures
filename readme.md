@@ -16,6 +16,8 @@ Lecturer: Chawanat Nakasan \<chawanat.n@ku.th\>
 | s02e02           | 01204111  | CEDT3209   | 2023-09-04 1230-1630 | Practical Python Programming II  | CRU         |
 | [s03e01](s02e01) | 01204111  | CEDT3209   | 2024-09-02 1230-1630 | Practical Python Programming I   | CRU         |
 | [s03e01](s03e01) | 01204111  | CEDT3209   | 2024-09-09 1230-1630 | Practical Python Programming II  | CRU         |
+| ai2024e01        | N/A       | N/A        | 2024-09-21 0830-1730 | Ethical AI I                     | CRU         |
+| ai2024e02        | N/A       | N/A        | 2024-09-28 0830-1730 | Ethical AI II                    | CRU         |
 
 Folders and presentation files titles correspond to the codes.
 
