@@ -14,6 +14,8 @@ Lecturer: Chawanat Nakasan \<chawanat.n@ku.th\>
 | wc2022           | N/A       | N/A        | 2022-11-22 1300-1600 | Word Camp 2022 IV                | CRU         |
 | [s02e01](s02e01) | 01204111  | CEDT3209   | 2023-08-28 1230-1630 | Practical Python Programming I   | CRU         |
 | s02e02           | 01204111  | CEDT3209   | 2023-09-04 1230-1630 | Practical Python Programming II  | CRU         |
+| [s03e01](s02e01) | 01204111  | CEDT3209   | 2024-09-02 1230-1630 | Practical Python Programming I   | CRU         |
+| [s03e01](s03e01) | 01204111  | CEDT3209   | 2024-09-09 1230-1630 | Practical Python Programming II  | CRU         |
 
 Folders and presentation files titles correspond to the codes.
 
@@ -49,7 +51,7 @@ appreciates the support of the following entities:
 
 ## Licensing Information
 
-(C) 2021-2023 Chawanat Nakasan
+(C) 2021-2024 Chawanat Nakasan
 
 Presentation & artwork released under CC-BY 4.0 except where noted. Code files
 are released under MIT License.
